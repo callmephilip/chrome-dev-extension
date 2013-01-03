@@ -1,0 +1,7 @@
+{
+    "name": "Chrome Dev Tools Experiment",
+    "version": "0.1",
+    "description": "Playing with Chrome Dev Tools extension API",
+    "devtools_page": "devtools.html",
+    "manifest_version": 2
+}
